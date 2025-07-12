@@ -1,1 +1,4 @@
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%B3%F0%9F%87%B1%20NL-206.71.158.40%3A35000
+vless://92c700cd-aa2a-489b-88ee-13f9124cca2a@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=samistar22your-name.global.ssl.fastly.net&path=%2Ftelegram-mDaltoon%2CNGV2ray%3Fed%3D2048&mode=auto#vless-notls
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?encryption=none&security=tls&sni=simorgh.hpcode.ir&fp=firefox&type=ws&host=simorgh.hpcode.ir&path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D%40vpnserverrr_vpnserverrr_vpnserverrr#vless-tls
+vless://453aeace-638f-441e-98cd-6dbab6e0c75e@143.198.196.86:80?encryption=none&security=none&type=ws&host=zoom.us&path=%2FFREE%20by%20Tharuwa%20%280767597317%29#vless-notls
